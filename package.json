@@ -1,0 +1,36 @@
+{
+  "name": "sbxhubspot",
+  "version": "0.0.1",
+  "description": "HubSpot Wrapper for sbx",
+  "main": "lib/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socobox/hubspot-wrapper.git"
+  },
+  "keywords": [
+    "sbx",
+    "hubspot",
+    "custom objects"
+  ],
+  "author": {
+    "name": "Luis Guzman",
+    "email": "lgguzman890414@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Carlos Diaz",
+      "email": "carlos8berrio@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbxcloud/hubspot-wrapper/issues"
+  },
+  "homepage": "https://github.com/sbxcloud/hubspot-wrapper#readme",
+  "peerDependencies": {
+    "@hubspot/api-client": "^3.0.1",
+    "axios": "^0.20.0"
+  }
+}
