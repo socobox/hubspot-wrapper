@@ -1,6 +1,6 @@
 {
   "name": "sbxhubspot",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "HubSpot Wrapper for sbx",
   "main": "lib/index.js",
   "scripts": {
@@ -26,11 +26,11 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sbxcloud/hubspot-wrapper/issues"
+    "url": "https://github.com/socobox/hubspot-wrapper/issues"
   },
-  "homepage": "https://github.com/sbxcloud/hubspot-wrapper#readme",
+  "homepage": "https://github.com/socobox/hubspot-wrapper#readme",
   "peerDependencies": {
-    "@hubspot/api-client": "^3.0.1",
+    "@hubspot/api-client": "^5.0.0",
     "axios": "^0.20.0"
   }
 }
