@@ -1,6 +1,6 @@
 {
   "name": "sbxhubspot",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "HubSpot Wrapper for sbx",
   "main": "lib/index.js",
   "scripts": {
@@ -31,6 +31,7 @@
   "homepage": "https://github.com/socobox/hubspot-wrapper#readme",
   "peerDependencies": {
     "@hubspot/api-client": "^5.0.0",
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "qs": "^6.5.2"
   }
 }
