@@ -1,6 +1,6 @@
 {
   "name": "sbxhubspot",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "HubSpot Wrapper for sbx",
   "main": "lib/index.js",
   "scripts": {
